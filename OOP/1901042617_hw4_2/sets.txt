@@ -1,0 +1,47 @@
+set1:
+day: 1 month: 12 
+day: 2 month: 3 
+day: 5 month: 6 
+3 element in set 
+set2
+day: 2 month: 12 
+day: 3 month: 6 
+day: 2 month: 3 
+day: 5 month: 6 
+4 element in set 
+set4:
+day: 1 month: 12 
+day: 2 month: 12 
+day: 3 month: 6 
+day: 2 month: 3 
+day: 5 month: 6 
+5 element in set 
+set5
+day: 1 month: 12 
+1 element in set 
+set6:
+day: 2 month: 3 
+day: 5 month: 6 
+2 element in set 
+set7
+day: 7 month: 8 
+day: 1 month: 5 
+day: 2 month: 3 
+day: 3 month: 4 
+4 element in set 
+set8
+day: 1 month: 5 
+day: 2 month: 3 
+day: 3 month: 4 
+3 element in set 
+set9:
+day: 7 month: 8 
+day: 1 month: 5 
+day: 2 month: 3 
+day: 3 month: 4 
+4 element in set 
+set10
+day: 1 month: 5 
+day: 2 month: 3 
+day: 3 month: 4 
+3 element in set 
